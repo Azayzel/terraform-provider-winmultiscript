@@ -1,0 +1,9 @@
+*.dll
+bin/
+/pkg/
+*.backup
+./*.tfstate
+.terraform/
+*.log
+*.bak
+
